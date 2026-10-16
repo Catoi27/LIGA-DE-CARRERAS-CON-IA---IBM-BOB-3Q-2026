@@ -55,3 +55,6 @@ El algoritmo de control se basa en una arquitectura modular de telemetría en ti
 3. Ejecutar el controlador en la terminal de Python:
    ```bash
    python torcs_jm_par.py
+
+### Video de mi Mejor Vuelta en el circuito  ###
+[Ver Video de la Practica ] Enlace :(https://drive.google.com/file/d/1WUoXJbJfap5GLufQjexGuTlTk4ZqisJI/view?usp=sharing)
